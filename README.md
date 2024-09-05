@@ -7,10 +7,10 @@ The Java Hyper Market Management System mobile application is designed to stream
 
 # Screenshots:
 
-<img src="https://github.com/user-attachments/assets/e3e28422-2738-4bef-8ba3-1cb95e86d919" height="420">
-<img src="https://github.com/user-attachments/assets/6330b085-359f-454e-b6b3-905dff86f74e" height="420">
-<img src="https://github.com/user-attachments/assets/af8df84b-4ba0-44cb-8f71-86f122cd8ad1" height="420">
-<img src="https://github.com/user-attachments/assets/727ccc86-9ba1-46d6-a3b9-c3fe1cafa4fd" height="420">
+<img src="https://github.com/user-attachments/assets/500913d3-f3ea-493e-a5b2-abaa5c4f15c8" height="420">
+<img src="https://github.com/user-attachments/assets/b6a7d168-3cce-426d-b925-a47a462205e0" height="420">
+<img src="https://github.com/user-attachments/assets/e504042e-fe73-45e5-b3f5-b27a292210c5" height="420">
+<img src="https://github.com/user-attachments/assets/6c05a49f-cd4b-44a5-a072-ee8f90a703c0" height="420">
 
 
 # Features:
